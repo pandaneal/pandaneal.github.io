@@ -3,7 +3,7 @@ color: yellow;
 padding:10px;
 }
 #image {
-	float:left;
+	float:right;
 }
 #description {
 	float:right;

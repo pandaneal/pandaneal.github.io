@@ -23,3 +23,7 @@ font: 'Nunito'
 	border-radius:15%;
 	background-color: #5c0099; 
 }
+#subheader {
+	font-size: 25;
+	float:middle;
+}
